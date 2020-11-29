@@ -1,1 +1,1 @@
-# Laborator_A2
+# Laborator
